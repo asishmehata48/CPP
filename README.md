@@ -1,5 +1,4 @@
 # OOP-codes
-It contains:
 
-Objects and Class
-Operator Overloading
+1. Objects and Class
+2. Operator Overloading

@@ -1,9 +1,9 @@
 #include<iostream>
-using namespace std;
+using namespace std; //Namespace declared
 
 
 
-class Base {
+class Base {  // class declared
 public:
 void show() { cout<< "Base" << endl; }
 };

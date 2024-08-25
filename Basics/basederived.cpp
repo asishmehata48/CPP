@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class Base {
+class Base {   // Changed 'Class' to 'class'
     public:
     Base() { cout << "Base"; }
 };

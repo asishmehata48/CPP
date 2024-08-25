@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-namespace student
+class student
 {
     int display()
     {

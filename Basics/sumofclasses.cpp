@@ -36,6 +36,7 @@ int main(){
     a1.getdata1();
      cout << "Enter value for mango: ";
     m1.getdata2();
+
    
     add(a1,m1);
     return 0;

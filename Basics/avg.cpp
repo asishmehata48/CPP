@@ -10,6 +10,7 @@ public:
    friend void average(vector);
 };
 
+
 void vector::getdata(){
     
     for (int i = 0; i < 10; i++)

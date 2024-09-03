@@ -33,7 +33,6 @@ class derived : public one , public two
         cout<<"\n Z = "<<z;
     }
 };
-
 int main()
 {
     derived obj;

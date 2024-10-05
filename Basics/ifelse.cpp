@@ -13,6 +13,5 @@ int main() {
     } else {
         std::cout << "Grade: C or lower" << std::endl;
     }
-
     return 0;
 }

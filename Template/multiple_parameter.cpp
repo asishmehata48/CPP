@@ -9,10 +9,12 @@ class ABC{
     }
     void show();
 };
+
 template<class t1,class t2>
 void ABC <t1,t2>::show(){
     cout<<"a and b="<<a<<b;
 }
+
 int main(){
     ABC<int,float>obj1(3,9.2);
     ABC<char,double>obj2('A',8.9007);

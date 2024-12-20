@@ -38,7 +38,7 @@ int main() {
     square s(10);
     Rectangle r(20,30);
 
-    dimension* dptr[] = {&s,&r};
+    dimension * dptr[] = {&s,&r};
     {
         for (int i =0 ; i<2 ;i++)
         {

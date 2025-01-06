@@ -7,8 +7,8 @@ void calculate()
     int a , b;
     cin>>a>>b;
     if ( b==0)
-    throw b;
-    cout<<"Quotient ="<<a/b;
+    throw a;
+    cout<<"Quotient ="<<a/b<<endl;
 }
 
 int main()

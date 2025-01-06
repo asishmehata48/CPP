@@ -12,7 +12,7 @@ int main()
         cout<<"\n son: ";
         cin>>son_age;
         if (son_age > mom_age)
-        throw 20;
+        throw 1;
         cout<<"Age difference ="<<mom_age-son_age;
     }
     catch(int k)
